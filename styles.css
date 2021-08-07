@@ -514,24 +514,28 @@ li {
   height: 0.4rem;
 }
 
-.skills-box .html {
-  width: 95%;
-}
-
-.skills-box .css {
-  width: 85%;
-}
-
-.skills-box .javascript {
+.skills-box .python {
   width: 90%;
 }
 
-.skills-box .nodejs {
+.skills-box .react {
+  width: 60%;
+}
+
+.skills-box .reactnative {
+  width: 50%;
+}
+
+.skills-box .html {
   width: 80%;
 }
 
-.skills-box .mongodb {
-  width: 95%;
+.skills-box .css {
+  width: 80%;
+}
+
+.skills-box .javascript {
+  width: 60%;
 }
 
 .skills-box span {
